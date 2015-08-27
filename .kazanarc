@@ -1,0 +1,13 @@
+port=5000
+
+[admin]
+  username=admin
+  password=secret
+
+[db]
+  rawData=my-raw-data
+  integratedData=my-integrated-data
+
+[rapidPro]
+  key=RapidProAPIKey
+  flow_uuid=RapidProFlowUuid
